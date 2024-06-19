@@ -12,7 +12,7 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #93e9d2, #6f64b5);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -104,3 +104,7 @@ body{
     display: none;
 }
 
+.Invalid{
+    color: rgb(238, 145, 145);
+    
+}
